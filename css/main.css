@@ -1,0 +1,8 @@
+html, body {
+  background-color: grey;
+}
+
+.snake-game-board{
+  border: 1px solid black;
+  background-color: white;
+}
